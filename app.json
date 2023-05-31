@@ -1,5 +1,6 @@
 {
-    "name": "𝗕𝗨𝗡𝗡𝗧𝗬 𝗖𝗛𝗔𝗧𝗕𝗢𝗧",    
+    "name": "𝗕𝗨𝗡𝗡𝗧𝗬 𝗖𝗛𝗔𝗧𝗕𝗢𝗧",  
+    "logo": "https://te.legra.ph/file/f469a9ff0adc3cf0eb3a6.jpg",
     "env": {
         "BOT_TOKEN": {
             "description": "𝐅𝐢𝐥𝐥 𝐘𝐨𝐮𝐫 𝐁𝐨𝐭 𝐓𝐨𝐤𝐞𝐧 𝐎𝐧𝐥𝐲.",
